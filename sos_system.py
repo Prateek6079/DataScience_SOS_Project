@@ -34,7 +34,7 @@ def get_location():
 # Function to send SOS via SMS
 def send_sos_sms(location):
     api_key = "JRMwfUtEX5lHZ4d2cBku8WFCQYVPNhGLvSTrqO6bnK137maixANZltCmvcTxdsVieUanFg8jq6wE9pkA"  # Replace with Fast2SMS API Key
-    phone_number = "9667482624"  # Replace with recipient's phone number
+    phone_number = "6737282868"  # Replace with recipient's phone number
 
     message = f"🚨 SOS ALERT! 🚨\nLocation: {location}\nNeed immediate help!"
     
